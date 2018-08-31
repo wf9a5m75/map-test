@@ -86,4 +86,5 @@
         <variable name="API_KEY_FOR_IOS" value="key2" />
     </plugin>
     <engine name="android" spec="7.0.0" />
+    <preference name="phonegap-version" value="cli-8.0.0" />
 </widget>
