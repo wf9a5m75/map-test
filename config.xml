@@ -82,6 +82,7 @@
     <plugin name="cordova-plugin-ionic-webview" spec="^2.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
     <plugin name="cordova-plugin-googlemaps" spec="https://github.com/mapsplugin/cordova-plugin-googlemaps#property_test" />
-    <plugin name="cordova-android-support-gradle-release" />
     <preference name="phonegap-version" value="cli-8.1.1" />
+    <preference name="android-build-tool" value="gradle" />
+    <engine name="android" spec="7.1.4" />
 </widget>
