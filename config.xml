@@ -81,7 +81,7 @@
     <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^2.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
-    <plugin name="cordova-plugin-googlemaps" spec="^git+https://github.com/mapsplugin/cordova-plugin-googlemaps.git#property_test" />
+    <plugin name="cordova-plugin-googlemaps" spec="https://github.com/mapsplugin/cordova-plugin-googlemaps#property_test" />
     <engine name="android" spec="7.0.0" />
     <preference name="phonegap-version" value="cli-8.0.0" />
 </widget>
