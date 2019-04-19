@@ -87,4 +87,6 @@
     <engine name="android" spec="7.1.4" />
     <preference name="GOOGLE_MAPS_ANDROID_API_KEY_DEBUG" value="AIzaSyAQb8UXtwwrW-R3zzOWgEDqvMNuA6IVkxs" />
     <preference name="GOOGLE_MAPS_ANDROID_API_KEY_RELEASE" value="AIzaSyAQb8UXtwwrW-R3zzOWgEDqvMNuA6IVkxs" />
+    <preference name="GOOGLE_MAPS_IOS_API_KEY_DEBUG" value="AIzaSyAQb8UXtwwrW-R3zzOWgEDqvMNuA6IVkxs" />
+    <preference name="GOOGLE_MAPS_IOS_API_KEY_RELEASE" value="AIzaSyAQb8UXtwwrW-R3zzOWgEDqvMNuA6IVkxs" />
 </widget>
